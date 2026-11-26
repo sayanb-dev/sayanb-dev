@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi, I'm Sayan Bandyopadhyay 👋
+**M.Tech Scholar (Cloud Computing & AI) @ IIT Patna** | **Ex-Amazon Operations (4.8 Yrs)**  
+Focused on Distributed Cloud Systems, Machine Learning, and Production Agentic AI.
 
-<!--
-**sayanb-dev/sayanb-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Currently Building:** Enterprise Operations SOP Copilot (`FastAPI` + `LlamaIndex` + `pgvector` + `Next.js`)
+- 🎓 **Academic Focus:** Machine Learning, Deep Learning, and Scalable Cloud Computing at IIT Patna
+- 📫 **Reach Me:** sayanbandyopadhyay78@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Technical Stack
+- **Languages:** Python, SQL, TypeScript / JavaScript
+- **AI / ML:** PyTorch, LangGraph, LlamaIndex, Scikit-learn, NumPy, Pandas
+- **Backend & Cloud:** FastAPI, PostgreSQL (`pgvector`), Redis, Docker, AWS
